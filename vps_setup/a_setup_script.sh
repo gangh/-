@@ -5,7 +5,7 @@ useradd -d /home/gang -m -g group -G root gang
 cd /home/gang
 
 # install packages
-apt install tmux tree htop git hub wget
+apt -y install tmux tree htop git hub wget bzip2
 
 # install anaconda python
 wget https://repo.continuum.io/archive/Anaconda3-4.3.1-Linux-x86_64.sh
