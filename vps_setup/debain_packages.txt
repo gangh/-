@@ -1,0 +1,6 @@
+git
+hub
+tmux
+htop
+tree
+docker
